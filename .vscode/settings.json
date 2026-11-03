@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "minimap.background": "#FFFFFFC0",
+        "scrollbar.shadow": "#FFFFFFC0"
+    },
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\build\\compile_commands.json"
+}
