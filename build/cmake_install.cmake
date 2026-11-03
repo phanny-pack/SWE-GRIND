@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/tbmh1/Documents/Education/SWE GRIND
+# Install script for directory: C:/Users/tbmh1/Documents/Education/SWE-GRIND
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

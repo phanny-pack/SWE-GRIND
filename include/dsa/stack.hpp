@@ -12,7 +12,7 @@ namespace dsa
         int _size;
     public:
         Stack();
-        Stack(T arr[]);
+        explicit Stack(T arr[]);
         auto push(T data) -> void;
         auto pop() -> void;
         auto top() -> T;

@@ -63,6 +63,10 @@ public:
         stack.push(3);
         std::cout << "Stack contents: ";
         stack.print_stack(); // Should print 3, 2, 1
+        while (!stack.isEmpty())
+        {
+            stack.pop();
+        }
         std::cout << GREEN << "[PASSED] " << RESET << "testPrintStack " << std::endl;
     }
 };

@@ -18,7 +18,7 @@ namespace dsa
         Node() : _data(T()), _next(nullptr) {}
 
         // Parameterized Constructor
-        Node(T data) : _data(data), _next(nullptr) {}
+        explicit Node(T data) : _data(data), _next(nullptr) {}
 
         // Public Methods
 

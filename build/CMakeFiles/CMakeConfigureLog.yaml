@@ -28,7 +28,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is Clang, found in:
-        C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/3.28.0-msvc1/CompilerIdCXX/a.exe
+        C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/3.28.3-msvc11/CompilerIdCXX/a.exe
       
   -
     kind: "message-v1"
@@ -59,8 +59,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-iurws2"
-      binary: "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-iurws2"
+      source: "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-radhzu"
+      binary: "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-radhzu"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -70,11 +70,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-iurws2'
+        Change Dir: 'C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-radhzu'
         
-        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_68bbe
-        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_68bbe.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_68bbe.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_68bbe.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console CMakeFiles/cmTC_68bbe.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_68bbe.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_68bbe.lib -Xlinker /pdb:cmTC_68bbe.pdb -Xlinker /version:0.0     && cd ."
+        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_167ba
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_167ba.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_167ba.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_167ba.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.28/Modules/CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console CMakeFiles/cmTC_167ba.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_167ba.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_167ba.lib -Xlinker /pdb:cmTC_167ba.pdb -Xlinker /version:0.0     && cd ."
         
       exitCode: 0
   -
@@ -89,8 +89,8 @@ events:
     checks:
       - "Detecting CXX compile features"
     directories:
-      source: "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-fxyz88"
-      binary: "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-fxyz88"
+      source: "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-rkb4k4"
+      binary: "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-rkb4k4"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -100,11 +100,11 @@ events:
       variable: "CMAKE_CXX_FEATURE_TEST"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-fxyz88'
+        Change Dir: 'C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-rkb4k4'
         
-        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_0c8f8
-        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_0c8f8.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_0c8f8.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_0c8f8.dir/feature_tests.cxx.obj -c "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-fxyz88/feature_tests.cxx"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console CMakeFiles/cmTC_0c8f8.dir/feature_tests.cxx.obj -o cmTC_0c8f8.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_0c8f8.lib -Xlinker /pdb:cmTC_0c8f8.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
+        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_3f613
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_3f613.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_3f613.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_3f613.dir/feature_tests.cxx.obj -c C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-rkb4k4/feature_tests.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console CMakeFiles/cmTC_3f613.dir/feature_tests.cxx.obj -o cmTC_3f613.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_3f613.lib -Xlinker /pdb:cmTC_3f613.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
         
       exitCode: 0
   -
@@ -119,8 +119,8 @@ events:
     checks:
       - "Detecting CXX compile features"
     directories:
-      source: "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-yywbjw"
-      binary: "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-yywbjw"
+      source: "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-biqofa"
+      binary: "C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-biqofa"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -130,11 +130,11 @@ events:
       variable: "CMAKE_CXX_FEATURE_TEST"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-yywbjw'
+        Change Dir: 'C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-biqofa'
         
-        Run Build Command(s): C:/msys64/mingw64/bin/ninja.exe -v cmTC_d01cd
-        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_d01cd.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_d01cd.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_d01cd.dir/feature_tests.cxx.obj -c "C:/Users/tbmh1/Documents/Education/SWE GRIND/build/CMakeFiles/CMakeScratch/TryCompile-yywbjw/feature_tests.cxx"
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console CMakeFiles/cmTC_d01cd.dir/feature_tests.cxx.obj -o cmTC_d01cd.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_d01cd.lib -Xlinker /pdb:cmTC_d01cd.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
+        Run Build Command(s): C:/PROGRA~1/ninja/ninja.exe -v cmTC_3dc75
+        [1/2] C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_3dc75.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_3dc75.dir\\feature_tests.cxx.obj.d -o CMakeFiles/cmTC_3dc75.dir/feature_tests.cxx.obj -c C:/Users/tbmh1/Documents/Education/SWE-GRIND/build/CMakeFiles/CMakeScratch/TryCompile-biqofa/feature_tests.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -fuse-ld=lld-link -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console CMakeFiles/cmTC_3dc75.dir/feature_tests.cxx.obj -o cmTC_3dc75.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_3dc75.lib -Xlinker /pdb:cmTC_3dc75.pdb -Xlinker /version:0.0   -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames  && cd ."
         
       exitCode: 0
 ...
