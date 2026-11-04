@@ -1,5 +1,6 @@
 #include "../include/dsa/stack.hpp"
-#include "../include/dsa/cout_colors.hpp"
+#include "../include/cout_colors.hpp"
+#include "test_runner.hpp"
 #include <iostream>
 #include <cassert>
 
@@ -70,3 +71,8 @@ public:
         std::cout << GREEN << "[PASSED] " << RESET << "testPrintStack " << std::endl;
     }
 };
+
+void runStackTests()
+{
+    StackTest::runTests();
+}

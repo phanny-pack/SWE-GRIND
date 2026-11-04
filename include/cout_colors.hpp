@@ -7,7 +7,7 @@
 #include <Windows.h>
 #endif
 
-void enableAnsiColors() 
+inline void enableAnsiColors() 
 {
 #ifdef _WIN32
     // 1. Get the handle to Standard Output

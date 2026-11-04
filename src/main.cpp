@@ -1,11 +1,11 @@
-#include "../include/dsa/stack.hpp"
-#include "../test/stack_test.cpp"
-#include "../include/dsa/cout_colors.hpp"
+#include "../include/cout_colors.hpp"
+#include "../test/test_runner.hpp"
 #include <iostream>
 
 int main()
 {
     enableAnsiColors();
-    StackTest::runTests();
+    runStackTests();
+    runBackspaceStringCompareTests();
     return 0;
 }

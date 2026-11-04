@@ -1,4 +1,4 @@
-#include "../include/dsa/stack.hpp"
+#include <iostream>
 #include <stdexcept>
 
 namespace dsa
